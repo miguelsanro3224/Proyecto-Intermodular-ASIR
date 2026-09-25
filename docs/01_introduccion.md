@@ -57,3 +57,8 @@ Crear un Club de Pádel en Talavera de la Reina que facilite la práctica deport
 | Clientes | Utilizan las instalaciones y servicios del club | Disponer de buenas instalaciones para practicar pádel a un precio razonable y poder gestionar cómodamente las reservas y el contacto con el club |
 | Socios | Mantienen una relación continuada con el club y participan en sus servicios | Disponer de servicios y ventajas que favorezcan su fidelización y una relación estable con el club |
 | Profesores | Imparten clases y entrenamientos y participan en las actividades deportivas del club | Disponer de una planificación organizada de clases, entrenamientos y horarios para poder desarrollar correctamente su actividad |
+| Trabajadores | Participan en la gestión y funcionamiento diario del club | Disponer de información organizada y herramientas que faciliten la gestión de las actividades y servicios del club |
+| Inversores | Aportan el capital necesario para la puesta en marcha y desarrollo del club | Contar con un proyecto viable, sostenible y con una planificación clara de la inversión |
+| Proveedores | Suministran productos y servicios necesarios para el funcionamiento del club | Disponer de una relación organizada con el club y una planificación adecuada de pedidos, servicios y mantenimiento |
+| Marcas | Pueden colaborar con el club mediante eventos, patrocinios, demostraciones o actividades relacionadas con el pádel | Disponer de oportunidades de colaboración y de un canal de comunicación con el club |
+| Otros clubes | Pueden colaborar en actividades, torneos y eventos relacionados con el pádel | Establecer relaciones de colaboración que permitan organizar actividades conjuntas y generar oportunidades para ambas partes |
